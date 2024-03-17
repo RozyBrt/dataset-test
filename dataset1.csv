@@ -1,0 +1,737 @@
+,Hours per day,Frequency [R&B],Frequency [Rap],Frequency [Rock]
+0,3.0,Sometimes,Very frequently,Never
+1,1.5,Sometimes,Rarely,Very frequently
+2,4.0,Never,Rarely,Rarely
+3,2.5,Sometimes,Never,Never
+4,4.0,Very frequently,Very frequently,Never
+5,5.0,Very frequently,Very frequently,Very frequently
+6,3.0,Rarely,Never,Never
+7,1.0,Sometimes,Rarely,Never
+8,6.0,Never,Never,Very frequently
+9,1.0,Sometimes,Rarely,Sometimes
+10,3.0,Rarely,Never,Rarely
+11,8.0,Rarely,Sometimes,Rarely
+12,3.0,Sometimes,Rarely,Rarely
+13,2.0,Never,Very frequently,Never
+14,4.0,Never,Never,Sometimes
+15,2.0,Rarely,Sometimes,Sometimes
+16,8.0,Sometimes,Very frequently,Never
+17,12.0,Rarely,Sometimes,Very frequently
+18,24.0,Sometimes,Very frequently,Very frequently
+19,3.0,Sometimes,Very frequently,Rarely
+20,8.0,Rarely,Very frequently,Sometimes
+21,4.0,Never,Very frequently,Sometimes
+22,5.0,Very frequently,Very frequently,Sometimes
+23,2.0,Never,Never,Never
+24,3.0,Sometimes,Rarely,Very frequently
+25,2.0,Sometimes,Sometimes,Sometimes
+26,12.0,Very frequently,Very frequently,Very frequently
+27,6.0,Sometimes,Sometimes,Never
+28,2.0,Rarely,Never,Sometimes
+29,1.0,Never,Never,Sometimes
+30,5.0,Sometimes,Sometimes,Very frequently
+31,2.0,Never,Never,Never
+32,6.0,Never,Never,Sometimes
+33,4.0,Rarely,Sometimes,Very frequently
+34,1.0,Never,Never,Never
+35,5.0,Sometimes,Sometimes,Rarely
+36,4.0,Never,Rarely,Never
+37,3.0,Sometimes,Very frequently,Very frequently
+38,0.5,Never,Never,Very frequently
+39,4.0,Very frequently,Sometimes,Very frequently
+40,2.0,Sometimes,Rarely,Sometimes
+41,5.0,Rarely,Sometimes,Very frequently
+42,0.25,Sometimes,Never,Sometimes
+43,3.0,Very frequently,Very frequently,Rarely
+44,4.0,Sometimes,Very frequently,Very frequently
+45,1.0,Rarely,Sometimes,Sometimes
+46,1.0,Never,Never,Sometimes
+47,3.0,Never,Never,Very frequently
+48,5.0,Rarely,Very frequently,Very frequently
+49,3.0,Sometimes,Sometimes,Sometimes
+50,2.0,Sometimes,Sometimes,Very frequently
+51,6.0,Very frequently,Very frequently,Rarely
+52,1.0,Rarely,Very frequently,Very frequently
+53,12.0,Sometimes,Rarely,Rarely
+54,4.0,Sometimes,Rarely,Very frequently
+55,2.0,Rarely,Rarely,Sometimes
+56,6.0,Never,Sometimes,Very frequently
+57,0.0,Rarely,Never,Sometimes
+58,7.0,Rarely,Rarely,Rarely
+59,1.0,Very frequently,Rarely,Sometimes
+60,1.0,Never,Never,Never
+61,1.0,Rarely,Never,Very frequently
+62,2.0,Never,Never,Very frequently
+63,2.0,Never,Rarely,Very frequently
+64,5.0,Very frequently,Rarely,Very frequently
+65,6.0,Never,Never,Sometimes
+66,3.0,Never,Never,Very frequently
+67,4.0,Sometimes,Sometimes,Sometimes
+68,3.0,Never,Rarely,Rarely
+69,2.0,Rarely,Rarely,Very frequently
+70,3.0,Very frequently,Very frequently,Very frequently
+71,2.0,Never,Never,Very frequently
+72,4.0,Rarely,Rarely,Very frequently
+73,2.0,Rarely,Very frequently,Very frequently
+74,0.5,Sometimes,Very frequently,Never
+75,5.0,Rarely,Very frequently,Sometimes
+76,5.0,Never,Never,Very frequently
+77,10.0,Very frequently,Rarely,Never
+78,2.0,Rarely,Sometimes,Rarely
+79,4.0,Very frequently,Very frequently,Sometimes
+80,5.0,Sometimes,Rarely,Very frequently
+81,3.0,Sometimes,Sometimes,Rarely
+82,2.0,Never,Sometimes,Very frequently
+83,2.5,Rarely,Never,Very frequently
+84,3.0,Very frequently,Very frequently,Rarely
+85,1.0,Rarely,Rarely,Very frequently
+86,7.0,Never,Never,Very frequently
+87,1.0,Rarely,Sometimes,Sometimes
+88,1.0,Very frequently,Very frequently,Very frequently
+89,3.0,Very frequently,Very frequently,Rarely
+90,5.0,Never,Never,Very frequently
+91,6.0,Rarely,Never,Sometimes
+92,4.0,Rarely,Never,Very frequently
+93,1.0,Rarely,Rarely,Very frequently
+94,4.0,Never,Never,Rarely
+95,10.0,Never,Rarely,Sometimes
+96,3.0,Never,Sometimes,Sometimes
+97,2.0,Never,Rarely,Very frequently
+98,4.0,Rarely,Sometimes,Very frequently
+99,8.0,Never,Never,Very frequently
+100,2.0,Never,Rarely,Very frequently
+101,0.5,Rarely,Never,Very frequently
+102,5.0,Sometimes,Sometimes,Very frequently
+103,1.0,Never,Never,Sometimes
+104,3.0,Sometimes,Rarely,Very frequently
+105,2.0,Never,Rarely,Sometimes
+106,3.0,Very frequently,Sometimes,Very frequently
+107,2.0,Never,Rarely,Very frequently
+108,4.0,Never,Sometimes,Sometimes
+109,3.0,Never,Never,Very frequently
+110,2.0,Never,Never,Sometimes
+111,3.0,Sometimes,Rarely,Never
+112,4.0,Rarely,Sometimes,Sometimes
+113,2.0,Sometimes,Sometimes,Very frequently
+114,8.0,Sometimes,Rarely,Rarely
+115,4.0,Very frequently,Very frequently,Sometimes
+116,2.0,Never,Rarely,Sometimes
+117,1.0,Very frequently,Sometimes,Sometimes
+118,3.0,Very frequently,Sometimes,Very frequently
+119,0.5,Never,Rarely,Very frequently
+120,2.0,Never,Sometimes,Very frequently
+121,3.0,Rarely,Sometimes,Very frequently
+122,2.0,Rarely,Very frequently,Very frequently
+123,1.0,Sometimes,Sometimes,Very frequently
+124,5.0,Sometimes,Never,Very frequently
+125,10.0,Rarely,Never,Sometimes
+126,4.0,Rarely,Rarely,Very frequently
+127,2.0,Rarely,Very frequently,Very frequently
+128,1.0,Sometimes,Sometimes,Very frequently
+129,6.0,Rarely,Rarely,Very frequently
+130,1.0,Rarely,Never,Sometimes
+131,6.0,Sometimes,Rarely,Very frequently
+132,7.0,Very frequently,Very frequently,Very frequently
+133,1.0,Rarely,Rarely,Rarely
+134,3.0,Never,Rarely,Very frequently
+135,2.0,Never,Never,Sometimes
+136,3.0,Never,Never,Rarely
+137,2.0,Rarely,Rarely,Rarely
+138,3.0,Never,Rarely,Very frequently
+139,1.5,Very frequently,Rarely,Very frequently
+140,4.0,Sometimes,Sometimes,Rarely
+141,2.0,Very frequently,Very frequently,Never
+142,10.0,Rarely,Sometimes,Very frequently
+143,7.0,Very frequently,Rarely,Very frequently
+144,1.0,Never,Never,Rarely
+145,2.0,Never,Never,Sometimes
+146,6.0,Very frequently,Very frequently,Sometimes
+147,2.0,Never,Rarely,Very frequently
+148,3.0,Sometimes,Rarely,Sometimes
+149,8.0,Sometimes,Sometimes,Sometimes
+150,3.0,Very frequently,Very frequently,Sometimes
+151,3.0,Very frequently,Rarely,Very frequently
+152,3.0,Rarely,Sometimes,Very frequently
+153,2.0,Sometimes,Very frequently,Very frequently
+154,1.0,Rarely,Sometimes,Very frequently
+155,2.0,Never,Rarely,Very frequently
+156,2.0,Very frequently,Sometimes,Never
+157,4.0,Rarely,Rarely,Very frequently
+158,4.0,Very frequently,Sometimes,Very frequently
+159,1.0,Never,Sometimes,Very frequently
+160,2.0,Very frequently,Rarely,Rarely
+161,2.0,Sometimes,Never,Never
+162,1.0,Rarely,Rarely,Very frequently
+163,3.0,Rarely,Sometimes,Very frequently
+164,10.0,Sometimes,Sometimes,Very frequently
+165,1.0,Rarely,Rarely,Very frequently
+166,3.0,Rarely,Sometimes,Sometimes
+167,1.5,Never,Sometimes,Very frequently
+168,3.0,Sometimes,Rarely,Sometimes
+169,2.5,Rarely,Rarely,Sometimes
+170,2.0,Rarely,Never,Sometimes
+171,5.0,Never,Sometimes,Very frequently
+172,2.0,Sometimes,Rarely,Sometimes
+173,2.0,Never,Never,Sometimes
+174,2.0,Sometimes,Rarely,Rarely
+175,2.0,Very frequently,Rarely,Never
+176,1.0,Never,Never,Very frequently
+177,1.5,Sometimes,Rarely,Rarely
+178,5.0,Sometimes,Rarely,Very frequently
+179,0.5,Sometimes,Rarely,Very frequently
+180,2.0,Never,Rarely,Very frequently
+181,0.5,Rarely,Never,Sometimes
+182,2.0,Very frequently,Very frequently,Very frequently
+183,2.5,Very frequently,Sometimes,Sometimes
+184,2.0,Very frequently,Sometimes,Never
+185,2.0,Rarely,Rarely,Very frequently
+186,1.0,Sometimes,Sometimes,Very frequently
+187,4.0,Never,Sometimes,Sometimes
+188,5.0,Never,Never,Very frequently
+189,2.0,Rarely,Never,Very frequently
+190,2.0,Never,Rarely,Very frequently
+191,2.0,Very frequently,Sometimes,Never
+192,1.0,Never,Never,Very frequently
+193,4.0,Very frequently,Very frequently,Very frequently
+194,1.0,Never,Rarely,Very frequently
+195,4.0,Rarely,Never,Sometimes
+196,5.0,Rarely,Rarely,Very frequently
+197,5.0,Never,Rarely,Very frequently
+198,7.0,Very frequently,Very frequently,Very frequently
+199,2.0,Very frequently,Rarely,Very frequently
+200,3.0,Rarely,Rarely,Very frequently
+201,2.0,Rarely,Rarely,Sometimes
+202,3.0,Rarely,Never,Very frequently
+203,3.0,Sometimes,Sometimes,Rarely
+204,3.0,Never,Never,Very frequently
+205,5.0,Sometimes,Rarely,Sometimes
+206,6.0,Never,Never,Never
+207,2.0,Very frequently,Sometimes,Never
+208,2.0,Sometimes,Sometimes,Very frequently
+209,1.0,Rarely,Rarely,Very frequently
+210,1.0,Rarely,Rarely,Sometimes
+211,3.0,Never,Sometimes,Very frequently
+212,3.0,Rarely,Very frequently,Very frequently
+213,1.0,Sometimes,Rarely,Sometimes
+214,6.0,Rarely,Sometimes,Very frequently
+215,4.0,Very frequently,Very frequently,Very frequently
+216,2.0,Sometimes,Sometimes,Very frequently
+217,2.0,Very frequently,Rarely,Very frequently
+218,3.0,Rarely,Rarely,Very frequently
+219,8.0,Never,Rarely,Sometimes
+220,3.0,Never,Never,Very frequently
+221,2.0,Never,Never,Rarely
+222,7.0,Sometimes,Sometimes,Rarely
+223,12.0,Sometimes,Sometimes,Rarely
+224,9.0,Never,Rarely,Sometimes
+225,2.0,Rarely,Sometimes,Sometimes
+226,1.0,Never,Never,Sometimes
+227,1.0,Rarely,Sometimes,Sometimes
+228,2.0,Rarely,Rarely,Very frequently
+229,4.0,Rarely,Rarely,Sometimes
+230,2.0,Rarely,Sometimes,Very frequently
+231,6.0,Never,Rarely,Very frequently
+232,4.0,Rarely,Sometimes,Very frequently
+233,1.0,Rarely,Rarely,Very frequently
+234,6.0,Never,Never,Very frequently
+235,2.0,Rarely,Sometimes,Very frequently
+236,5.0,Sometimes,Never,Very frequently
+237,1.5,Rarely,Sometimes,Sometimes
+238,5.0,Never,Never,Very frequently
+239,2.0,Rarely,Sometimes,Very frequently
+240,4.0,Sometimes,Rarely,Sometimes
+241,2.0,Never,Rarely,Very frequently
+242,5.0,Rarely,Never,Sometimes
+243,6.0,Sometimes,Sometimes,Sometimes
+244,1.0,Rarely,Rarely,Very frequently
+245,6.0,Very frequently,Very frequently,Sometimes
+246,4.0,Sometimes,Rarely,Never
+247,2.0,Never,Never,Very frequently
+248,2.0,Never,Rarely,Sometimes
+249,2.0,Rarely,Sometimes,Never
+250,4.0,Never,Rarely,Rarely
+251,2.0,Never,Never,Sometimes
+252,6.0,Very frequently,Sometimes,Rarely
+253,3.0,Sometimes,Very frequently,Sometimes
+254,5.0,Never,Never,Very frequently
+255,0.5,Rarely,Rarely,Sometimes
+256,1.0,Never,Never,Rarely
+257,10.0,Sometimes,Very frequently,Very frequently
+258,2.0,Very frequently,Sometimes,Very frequently
+259,0.5,Never,Never,Very frequently
+260,1.0,Never,Sometimes,Very frequently
+261,2.0,Never,Rarely,Very frequently
+262,3.0,Never,Never,Very frequently
+263,3.0,Very frequently,Rarely,Sometimes
+264,2.0,Never,Never,Sometimes
+265,1.0,Rarely,Rarely,Very frequently
+266,8.0,Never,Never,Rarely
+267,1.0,Sometimes,Very frequently,Sometimes
+268,1.0,Never,Never,Sometimes
+269,1.0,Never,Never,Sometimes
+270,5.0,Sometimes,Rarely,Very frequently
+271,5.0,Never,Very frequently,Sometimes
+272,4.0,Very frequently,Very frequently,Very frequently
+273,8.0,Rarely,Sometimes,Very frequently
+274,0.7,Rarely,Never,Very frequently
+275,3.0,Never,Never,Very frequently
+276,7.0,Rarely,Very frequently,Rarely
+277,1.5,Never,Never,Never
+278,4.0,Rarely,Rarely,Never
+279,4.0,Rarely,Rarely,Very frequently
+280,10.0,Never,Sometimes,Rarely
+281,2.0,Sometimes,Sometimes,Very frequently
+282,2.0,Rarely,Never,Very frequently
+283,6.0,Sometimes,Rarely,Very frequently
+284,0.5,Rarely,Rarely,Very frequently
+285,2.0,Very frequently,Rarely,Sometimes
+286,5.0,Rarely,Sometimes,Very frequently
+287,3.0,Very frequently,Very frequently,Very frequently
+288,4.5,Rarely,Sometimes,Very frequently
+289,3.0,Rarely,Never,Sometimes
+290,20.0,Never,Rarely,Very frequently
+291,1.0,Rarely,Sometimes,Sometimes
+292,2.5,Never,Rarely,Very frequently
+293,1.0,Rarely,Rarely,Very frequently
+294,2.0,Rarely,Rarely,Rarely
+295,5.0,Never,Rarely,Sometimes
+296,3.0,Never,Rarely,Very frequently
+297,3.0,Rarely,Rarely,Very frequently
+298,0.5,Never,Never,Very frequently
+299,8.0,Rarely,Rarely,Sometimes
+300,2.0,Never,Sometimes,Sometimes
+301,3.0,Very frequently,Sometimes,Very frequently
+302,3.0,Very frequently,Very frequently,Very frequently
+303,5.0,Sometimes,Very frequently,Sometimes
+304,1.5,Very frequently,Very frequently,Very frequently
+305,1.0,Sometimes,Never,Sometimes
+306,2.0,Rarely,Rarely,Never
+307,1.0,Never,Never,Rarely
+308,4.0,Rarely,Rarely,Very frequently
+309,1.0,Never,Sometimes,Never
+310,2.0,Sometimes,Sometimes,Rarely
+311,2.0,Sometimes,Very frequently,Sometimes
+312,2.0,Sometimes,Sometimes,Sometimes
+313,1.0,Rarely,Never,Very frequently
+314,6.0,Never,Sometimes,Very frequently
+315,2.0,Sometimes,Sometimes,Very frequently
+316,4.0,Rarely,Never,Very frequently
+317,1.5,Sometimes,Rarely,Very frequently
+318,3.0,Sometimes,Never,Very frequently
+319,4.0,Sometimes,Rarely,Very frequently
+320,10.0,Rarely,Very frequently,Never
+321,3.0,Rarely,Never,Very frequently
+322,3.0,Never,Never,Very frequently
+323,3.0,Very frequently,Very frequently,Very frequently
+324,2.0,Very frequently,Rarely,Sometimes
+325,2.0,Very frequently,Sometimes,Sometimes
+326,3.0,Rarely,Very frequently,Sometimes
+327,2.0,Never,Sometimes,Sometimes
+328,5.0,Rarely,Sometimes,Sometimes
+329,6.0,Sometimes,Never,Very frequently
+330,3.0,Sometimes,Sometimes,Very frequently
+331,5.0,Very frequently,Rarely,Very frequently
+332,5.0,Sometimes,Rarely,Sometimes
+333,6.0,Rarely,Rarely,Very frequently
+334,6.0,Sometimes,Sometimes,Very frequently
+335,3.0,Rarely,Sometimes,Sometimes
+336,10.0,Sometimes,Rarely,Very frequently
+337,2.0,Rarely,Sometimes,Sometimes
+338,2.0,Rarely,Rarely,Sometimes
+339,3.0,Never,Never,Sometimes
+340,1.5,Never,Sometimes,Sometimes
+341,10.0,Rarely,Never,Sometimes
+342,2.0,Never,Rarely,Sometimes
+343,3.0,Very frequently,Sometimes,Very frequently
+344,2.5,Never,Never,Never
+345,3.0,Very frequently,Very frequently,Very frequently
+346,0.5,Never,Never,Sometimes
+347,16.0,Very frequently,Very frequently,Very frequently
+348,6.0,Never,Never,Never
+349,3.0,Rarely,Very frequently,Very frequently
+350,0.5,Rarely,Never,Very frequently
+351,5.0,Very frequently,Rarely,Rarely
+352,2.0,Very frequently,Very frequently,Sometimes
+353,2.0,Never,Very frequently,Very frequently
+354,2.0,Rarely,Sometimes,Very frequently
+355,1.5,Sometimes,Sometimes,Very frequently
+356,1.0,Sometimes,Never,Very frequently
+357,10.0,Sometimes,Sometimes,Sometimes
+358,2.0,Rarely,Rarely,Very frequently
+359,15.0,Never,Very frequently,Very frequently
+360,0.5,Rarely,Rarely,Sometimes
+361,3.0,Rarely,Sometimes,Very frequently
+362,2.0,Never,Never,Very frequently
+363,4.0,Sometimes,Very frequently,Sometimes
+364,2.0,Never,Rarely,Sometimes
+365,1.0,Never,Sometimes,Very frequently
+366,24.0,Rarely,Rarely,Sometimes
+367,1.0,Rarely,Rarely,Sometimes
+368,2.0,Sometimes,Rarely,Very frequently
+369,2.0,Never,Rarely,Never
+370,3.0,Rarely,Very frequently,Very frequently
+371,3.0,Never,Rarely,Never
+372,2.0,Very frequently,Very frequently,Never
+373,7.0,Never,Never,Very frequently
+374,6.0,Never,Never,Very frequently
+375,3.0,Sometimes,Sometimes,Very frequently
+376,5.0,Sometimes,Rarely,Very frequently
+377,4.0,Rarely,Sometimes,Sometimes
+378,3.0,Never,Rarely,Very frequently
+379,2.0,Sometimes,Sometimes,Never
+380,3.0,Never,Rarely,Very frequently
+381,2.0,Rarely,Never,Very frequently
+382,2.0,Very frequently,Very frequently,Very frequently
+383,3.0,Never,Never,Very frequently
+384,2.0,Never,Never,Never
+385,3.0,Never,Never,Never
+386,0.0,Never,Never,Never
+387,1.0,Sometimes,Sometimes,Sometimes
+388,2.0,Rarely,Rarely,Sometimes
+389,2.0,Never,Rarely,Rarely
+390,6.0,Sometimes,Rarely,Rarely
+391,5.0,Rarely,Sometimes,Sometimes
+392,2.0,Never,Rarely,Very frequently
+393,4.0,Never,Never,Sometimes
+394,8.0,Never,Rarely,Sometimes
+395,4.0,Sometimes,Sometimes,Sometimes
+396,1.5,Never,Never,Rarely
+397,2.0,Sometimes,Very frequently,Rarely
+398,5.0,Never,Sometimes,Rarely
+399,6.0,Never,Never,Rarely
+400,2.0,Very frequently,Never,Never
+401,2.0,Sometimes,Sometimes,Very frequently
+402,1.0,Never,Never,Very frequently
+403,1.0,Sometimes,Sometimes,Rarely
+404,2.0,Sometimes,Sometimes,Rarely
+405,2.0,Never,Sometimes,Very frequently
+406,1.0,Never,Never,Never
+407,14.0,Very frequently,Very frequently,Very frequently
+408,3.0,Never,Never,Never
+409,3.0,Never,Never,Never
+410,2.0,Sometimes,Rarely,Very frequently
+411,0.5,Never,Never,Never
+412,6.0,Rarely,Rarely,Never
+413,1.0,Rarely,Never,Sometimes
+414,2.0,Rarely,Never,Sometimes
+415,4.0,Sometimes,Never,Very frequently
+416,3.0,Very frequently,Very frequently,Sometimes
+417,12.0,Sometimes,Rarely,Never
+418,3.0,Never,Never,Rarely
+419,1.0,Never,Never,Sometimes
+420,10.0,Very frequently,Very frequently,Never
+421,5.0,Sometimes,Rarely,Rarely
+422,0.5,Never,Never,Never
+423,5.0,Rarely,Rarely,Very frequently
+424,3.0,Sometimes,Rarely,Rarely
+425,2.0,Never,Sometimes,Sometimes
+426,13.0,Very frequently,Sometimes,Very frequently
+427,4.0,Never,Never,Sometimes
+428,6.0,Very frequently,Never,Very frequently
+429,3.0,Very frequently,Sometimes,Sometimes
+430,4.0,Rarely,Rarely,Rarely
+431,3.0,Rarely,Very frequently,Sometimes
+432,2.0,Never,Never,Rarely
+433,2.0,Never,Rarely,Sometimes
+434,1.0,Sometimes,Very frequently,Very frequently
+435,6.0,Sometimes,Rarely,Very frequently
+436,9.0,Very frequently,Very frequently,Rarely
+437,1.0,Never,Never,Never
+438,1.0,Rarely,Rarely,Rarely
+439,0.5,Sometimes,Very frequently,Rarely
+440,1.0,Rarely,Rarely,Sometimes
+441,1.5,Never,Never,Sometimes
+442,6.0,Never,Very frequently,Never
+443,4.0,Never,Never,Very frequently
+444,6.0,Rarely,Sometimes,Very frequently
+445,4.0,Never,Never,Very frequently
+446,1.5,Rarely,Never,Never
+447,2.0,Rarely,Sometimes,Very frequently
+448,2.0,Sometimes,Sometimes,Rarely
+449,4.0,Rarely,Sometimes,Very frequently
+450,3.0,Rarely,Rarely,Rarely
+451,4.0,Rarely,Rarely,Very frequently
+452,2.0,Very frequently,Very frequently,Sometimes
+453,2.0,Rarely,Never,Sometimes
+454,6.0,Never,Never,Very frequently
+455,0.0,Never,Never,Very frequently
+456,1.0,Very frequently,Very frequently,Sometimes
+457,4.0,Rarely,Rarely,Very frequently
+458,2.0,Rarely,Never,Very frequently
+459,3.0,Never,Rarely,Sometimes
+460,4.0,Sometimes,Sometimes,Sometimes
+461,2.0,Never,Sometimes,Rarely
+462,3.0,Rarely,Never,Sometimes
+463,1.0,Very frequently,Very frequently,Never
+464,10.0,Sometimes,Never,Sometimes
+465,10.0,Rarely,Rarely,Very frequently
+466,10.0,Never,Rarely,Sometimes
+467,4.0,Never,Never,Sometimes
+468,4.0,Sometimes,Sometimes,Very frequently
+469,3.0,Never,Rarely,Sometimes
+470,2.0,Rarely,Never,Very frequently
+471,1.0,Never,Rarely,Sometimes
+472,6.0,Rarely,Sometimes,Very frequently
+473,1.0,Sometimes,Sometimes,Sometimes
+474,1.0,Never,Never,Never
+475,4.0,Rarely,Never,Very frequently
+476,2.0,Never,Never,Never
+477,2.0,Sometimes,Rarely,Very frequently
+478,2.0,Sometimes,Never,Sometimes
+479,6.0,Very frequently,Very frequently,Sometimes
+480,3.0,Very frequently,Sometimes,Sometimes
+481,1.0,Sometimes,Rarely,Sometimes
+482,4.0,Rarely,Rarely,Very frequently
+483,0.5,Sometimes,Sometimes,Rarely
+484,8.0,Sometimes,Never,Very frequently
+485,15.0,Never,Never,Very frequently
+486,1.5,Rarely,Never,Rarely
+487,2.0,Rarely,Rarely,Never
+488,3.0,Very frequently,Very frequently,Sometimes
+489,1.0,Rarely,Sometimes,Sometimes
+490,0.25,Rarely,Never,Rarely
+491,1.0,Never,Rarely,Rarely
+492,1.0,Rarely,Sometimes,Sometimes
+493,5.0,Sometimes,Very frequently,Rarely
+494,1.0,Sometimes,Never,Sometimes
+495,1.0,Sometimes,Sometimes,Sometimes
+496,7.0,Never,Sometimes,Never
+497,3.0,Sometimes,Very frequently,Very frequently
+498,3.0,Sometimes,Very frequently,Sometimes
+499,7.0,Never,Never,Very frequently
+500,8.0,Never,Very frequently,Very frequently
+501,2.0,Never,Never,Sometimes
+502,2.0,Very frequently,Very frequently,Very frequently
+503,2.0,Rarely,Rarely,Very frequently
+504,2.0,Very frequently,Rarely,Sometimes
+505,4.0,Sometimes,Never,Never
+506,8.0,Sometimes,Sometimes,Very frequently
+507,4.0,Never,Very frequently,Rarely
+508,1.0,Rarely,Never,Sometimes
+509,5.0,Never,Never,Sometimes
+510,2.0,Sometimes,Never,Very frequently
+511,1.0,Never,Never,Rarely
+512,5.0,Rarely,Never,Very frequently
+513,8.0,Rarely,Never,Sometimes
+514,2.0,Rarely,Never,Rarely
+515,2.0,Rarely,Sometimes,Sometimes
+516,1.0,Rarely,Sometimes,Very frequently
+517,8.0,Sometimes,Very frequently,Very frequently
+518,8.0,Sometimes,Sometimes,Sometimes
+519,1.0,Never,Never,Never
+520,1.0,Sometimes,Rarely,Rarely
+521,8.0,Rarely,Sometimes,Sometimes
+522,2.0,Sometimes,Never,Very frequently
+523,6.0,Very frequently,Never,Sometimes
+524,3.0,Sometimes,Never,Very frequently
+525,4.0,Never,Rarely,Rarely
+526,2.0,Rarely,Rarely,Sometimes
+527,3.0,Never,Never,Never
+528,4.0,Very frequently,Rarely,Sometimes
+529,2.0,Rarely,Never,Sometimes
+530,1.0,Sometimes,Rarely,Rarely
+531,1.0,Rarely,Rarely,Very frequently
+532,1.0,Sometimes,Sometimes,Sometimes
+533,2.0,Sometimes,Never,Rarely
+534,7.0,Very frequently,Very frequently,Sometimes
+535,5.0,Very frequently,Sometimes,Rarely
+536,3.0,Never,Sometimes,Very frequently
+537,1.0,Sometimes,Sometimes,Very frequently
+538,6.0,Never,Rarely,Very frequently
+539,2.0,Never,Never,Sometimes
+540,3.0,Rarely,Rarely,Rarely
+541,1.5,Never,Sometimes,Sometimes
+542,4.0,Sometimes,Sometimes,Very frequently
+543,2.0,Never,Sometimes,Never
+544,2.0,Sometimes,Sometimes,Sometimes
+545,2.0,Rarely,Very frequently,Rarely
+546,1.0,Never,Rarely,Very frequently
+547,3.0,Very frequently,Rarely,Sometimes
+548,3.0,Sometimes,Very frequently,Rarely
+549,2.0,Rarely,Rarely,Very frequently
+550,6.0,Sometimes,Very frequently,Rarely
+551,3.0,Never,Never,Sometimes
+552,3.0,Rarely,Very frequently,Rarely
+553,2.0,Very frequently,Very frequently,Rarely
+554,2.0,Never,Never,Never
+555,2.0,Rarely,Never,Sometimes
+556,3.0,Rarely,Sometimes,Very frequently
+557,4.0,Rarely,Very frequently,Very frequently
+558,2.0,Very frequently,Rarely,Sometimes
+559,5.0,Never,Sometimes,Very frequently
+560,2.0,Very frequently,Sometimes,Very frequently
+561,1.0,Sometimes,Sometimes,Very frequently
+562,7.0,Rarely,Rarely,Very frequently
+563,3.0,Rarely,Sometimes,Never
+564,3.0,Sometimes,Sometimes,Sometimes
+565,4.0,Very frequently,Very frequently,Very frequently
+566,3.0,Very frequently,Never,Sometimes
+567,1.0,Never,Never,Never
+568,7.0,Never,Very frequently,Rarely
+569,1.0,Very frequently,Sometimes,Never
+570,4.0,Sometimes,Sometimes,Sometimes
+571,4.0,Never,Never,Rarely
+572,3.0,Sometimes,Never,Never
+573,2.0,Never,Very frequently,Never
+574,4.0,Very frequently,Sometimes,Rarely
+575,5.0,Very frequently,Very frequently,Very frequently
+576,6.0,Sometimes,Sometimes,Sometimes
+577,1.0,Rarely,Never,Sometimes
+578,1.0,Rarely,Rarely,Sometimes
+579,3.0,Never,Never,Very frequently
+580,1.0,Sometimes,Sometimes,Sometimes
+581,8.0,Very frequently,Very frequently,Very frequently
+582,1.0,Rarely,Never,Very frequently
+583,8.0,Sometimes,Sometimes,Very frequently
+584,1.0,Sometimes,Sometimes,Sometimes
+585,1.0,Never,Very frequently,Never
+586,10.0,Never,Never,Sometimes
+587,10.0,Sometimes,Sometimes,Very frequently
+588,5.0,Sometimes,Very frequently,Very frequently
+589,10.0,Never,Never,Very frequently
+590,2.0,Rarely,Never,Very frequently
+591,6.0,Sometimes,Never,Never
+592,2.0,Very frequently,Rarely,Never
+593,3.0,Sometimes,Never,Never
+594,8.0,Very frequently,Sometimes,Never
+595,8.0,Very frequently,Very frequently,Very frequently
+596,8.0,Rarely,Sometimes,Very frequently
+597,8.0,Rarely,Never,Very frequently
+598,12.0,Never,Very frequently,Very frequently
+599,6.0,Very frequently,Very frequently,Rarely
+600,4.0,Very frequently,Very frequently,Never
+601,8.0,Sometimes,Sometimes,Very frequently
+602,2.0,Sometimes,Sometimes,Very frequently
+603,1.0,Never,Never,Sometimes
+604,2.0,Very frequently,Very frequently,Never
+605,3.0,Very frequently,Very frequently,Very frequently
+606,1.0,Never,Sometimes,Sometimes
+607,0.0,Rarely,Rarely,Rarely
+608,2.0,Sometimes,Very frequently,Sometimes
+609,0.1,Never,Rarely,Sometimes
+610,2.0,Never,Rarely,Very frequently
+611,12.0,Rarely,Sometimes,Very frequently
+612,1.0,Rarely,Rarely,Very frequently
+613,1.0,Never,Never,Very frequently
+614,3.0,Never,Never,Very frequently
+615,2.0,Sometimes,Sometimes,Very frequently
+616,2.0,Sometimes,Sometimes,Very frequently
+617,3.0,Never,Rarely,Very frequently
+618,1.0,Rarely,Never,Sometimes
+619,3.0,Sometimes,Rarely,Very frequently
+620,3.0,Never,Sometimes,Very frequently
+621,5.0,Never,Sometimes,Very frequently
+622,8.0,Very frequently,Rarely,Sometimes
+623,4.0,Rarely,Very frequently,Sometimes
+624,5.0,Rarely,Rarely,Very frequently
+625,3.0,Sometimes,Very frequently,Sometimes
+626,4.0,Sometimes,Sometimes,Very frequently
+627,1.0,Never,Never,Never
+628,4.0,Sometimes,Sometimes,Very frequently
+629,1.0,Rarely,Rarely,Very frequently
+630,2.0,Sometimes,Never,Very frequently
+631,6.0,Rarely,Rarely,Very frequently
+632,2.0,Never,Never,Very frequently
+633,1.0,Never,Very frequently,Very frequently
+634,4.0,Never,Never,Very frequently
+635,8.0,Never,Never,Rarely
+636,2.0,Sometimes,Never,Very frequently
+637,2.0,Rarely,Sometimes,Very frequently
+638,10.0,Sometimes,Very frequently,Very frequently
+639,0.0,Never,Rarely,Rarely
+640,6.0,Sometimes,Sometimes,Sometimes
+641,3.0,Sometimes,Sometimes,Sometimes
+642,2.0,Very frequently,Rarely,Very frequently
+643,0.25,Rarely,Rarely,Sometimes
+644,4.0,Never,Never,Never
+645,2.0,Rarely,Rarely,Very frequently
+646,2.0,Very frequently,Rarely,Sometimes
+647,3.0,Very frequently,Sometimes,Sometimes
+648,6.0,Sometimes,Sometimes,Very frequently
+649,3.0,Rarely,Sometimes,Very frequently
+650,2.0,Rarely,Rarely,Sometimes
+651,5.0,Sometimes,Very frequently,Very frequently
+652,4.0,Sometimes,Sometimes,Sometimes
+653,4.0,Rarely,Rarely,Very frequently
+654,0.0,Rarely,Rarely,Sometimes
+655,12.0,Rarely,Rarely,Very frequently
+656,0.5,Never,Never,Never
+657,1.0,Never,Never,Sometimes
+658,3.0,Very frequently,Very frequently,Sometimes
+659,12.0,Sometimes,Sometimes,Very frequently
+660,4.0,Never,Never,Very frequently
+661,3.0,Sometimes,Sometimes,Sometimes
+662,1.0,Rarely,Sometimes,Very frequently
+663,4.0,Rarely,Rarely,Very frequently
+664,2.0,Never,Never,Very frequently
+665,3.0,Rarely,Rarely,Very frequently
+666,3.0,Never,Never,Very frequently
+667,1.0,Rarely,Rarely,Very frequently
+668,2.0,Very frequently,Sometimes,Rarely
+669,1.0,Sometimes,Never,Rarely
+670,0.5,Rarely,Rarely,Sometimes
+671,2.0,Never,Rarely,Never
+672,11.0,Sometimes,Very frequently,Very frequently
+673,10.0,Sometimes,Rarely,Sometimes
+674,5.0,Very frequently,Very frequently,Very frequently
+675,1.5,Rarely,Sometimes,Sometimes
+676,2.0,Rarely,Never,Sometimes
+677,3.0,Sometimes,Very frequently,Rarely
+678,2.0,Sometimes,Sometimes,Very frequently
+679,3.0,Sometimes,Never,Never
+680,4.0,Very frequently,Very frequently,Never
+681,1.0,Sometimes,Rarely,Rarely
+682,5.0,Sometimes,Rarely,Sometimes
+683,2.0,Very frequently,Very frequently,Never
+684,7.0,Sometimes,Sometimes,Rarely
+685,2.0,Rarely,Very frequently,Never
+686,1.0,Rarely,Rarely,Rarely
+687,1.0,Never,Rarely,Never
+688,4.0,Very frequently,Sometimes,Never
+689,6.0,Very frequently,Very frequently,Never
+690,3.0,Very frequently,Very frequently,Never
+691,4.0,Never,Very frequently,Never
+692,4.0,Sometimes,Sometimes,Sometimes
+693,1.0,Rarely,Sometimes,Sometimes
+694,2.0,Never,Rarely,Sometimes
+695,24.0,Sometimes,Very frequently,Rarely
+696,5.0,Very frequently,Very frequently,Very frequently
+697,3.0,Sometimes,Sometimes,Very frequently
+698,4.0,Rarely,Rarely,Sometimes
+699,9.0,Rarely,Rarely,Very frequently
+700,1.0,Rarely,Sometimes,Rarely
+701,1.0,Rarely,Rarely,Very frequently
+702,2.0,Rarely,Rarely,Sometimes
+703,1.5,Rarely,Sometimes,Sometimes
+704,2.0,Never,Sometimes,Very frequently
+705,4.0,Never,Never,Never
+706,1.0,Sometimes,Sometimes,Very frequently
+707,1.0,Never,Never,Sometimes
+708,3.0,Rarely,Rarely,Sometimes
+709,4.0,Very frequently,Very frequently,Sometimes
+710,8.0,Rarely,Never,Very frequently
+711,5.0,Never,Rarely,Very frequently
+712,3.0,Rarely,Never,Very frequently
+713,8.0,Never,Rarely,Rarely
+714,1.0,Rarely,Rarely,Very frequently
+715,4.0,Sometimes,Rarely,Sometimes
+716,1.0,Never,Rarely,Very frequently
+717,2.0,Sometimes,Sometimes,Very frequently
+718,1.0,Never,Never,Very frequently
+719,3.0,Rarely,Rarely,Sometimes
+720,5.0,Very frequently,Very frequently,Rarely
+721,5.0,Rarely,Rarely,Sometimes
+722,4.0,Sometimes,Sometimes,Sometimes
+723,6.0,Very frequently,Very frequently,Never
+724,6.0,Rarely,Rarely,Rarely
+725,1.0,Never,Sometimes,Sometimes
+726,18.0,Sometimes,Sometimes,Sometimes
+727,1.0,Never,Never,Never
+728,7.0,Sometimes,Sometimes,Very frequently
+729,0.5,Sometimes,Sometimes,Very frequently
+730,2.0,Very frequently,Sometimes,Sometimes
+731,2.0,Never,Rarely,Very frequently
+732,1.0,Never,Never,Sometimes
+733,6.0,Sometimes,Sometimes,Rarely
+734,5.0,Never,Never,Never
+735,2.0,Very frequently,Very frequently,Very frequently
